@@ -2,4 +2,4 @@
 Apple script that changes dark mode back and forth.
 
 compile with
-              osacompile -o target_name.app Dark.scpt
+              ```osacompile -o target_name.app Dark.scpt```
