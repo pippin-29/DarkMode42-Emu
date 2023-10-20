@@ -5,7 +5,7 @@ compile with
               ```osacompile -o target_name.app Dark.scpt```
 
 
-
+Will require approval from user.
 
 
 
